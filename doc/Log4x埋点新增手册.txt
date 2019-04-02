@@ -1,0 +1,4 @@
+1. 适配器的包路径必须以: com.ai.aif.log4x.agent.trans.adapter.impl 开头。
+2. com.ai.aif.log4x.agent.trans.adapter.impl 后续路径作为tag标识，配置于log4x-agent.json。
+3. 适配器类名的命名规则: 被埋点的类 + "Adapter"
+4.
